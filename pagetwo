@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title>Hello title!</title>
+        <link rel="stylesheet" type="text/css"href="css/main.css">
+    </head>
+
+    <body>
+      <div id="div1">
+        <h1>This is the top div1</h1>
+      </div>
+
+      <div id="div2">
+        <h2> this is the left side of div2</h2>
+        <p><a href="pagetwo.html">What's Next?</a></p>
+      </div>
+
+      <div id="div3">
+        <img src="images/TheInternet.png">
+        <h3> this is the right side content div3</h3>
+      </div>
+
+      <div id="div4">
+        <h4> this is the top div1</h4>
+      </div>
+    </body>
+
+</html>
